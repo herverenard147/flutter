@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:project_test/const/size.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:project_test/compoment/btnAll.dart';
-import 'package:project_test/compoment/homeAppBar.dart';
+import 'package:project_test/screen/compoments/btnAll.dart';
+import 'package:project_test/screen/compoments/homeAppBar.dart';
 import 'package:project_test/const/text.dart';
-import 'package:project_test/screen/bottomAppBar.dart';
-import 'package:project_test/screen/compoments/bannierHome.dart';
-import 'package:project_test/screen/compoments/productGrid.dart';
-import 'package:project_test/screen/compoments/searchBar.dart';
+import 'package:project_test/screen/compoments/bottomAppBar.dart';
+import 'package:project_test/screen/home/compoments/bannierHome.dart';
+import 'package:project_test/screen/home/compoments/productGrid.dart';
+import 'package:project_test/screen/home/compoments/searchBar.dart';
 
 class Homepage extends StatelessWidget {
   const Homepage({super.key});

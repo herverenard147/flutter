@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:project_test/const/color.dart';
-import 'package:project_test/compoment/btnAll.dart';
+import 'package:project_test/screen/compoments/btnAll.dart';
 
 AppBar HomeAppBar(BuildContext context) => AppBar(
   centerTitle: true,

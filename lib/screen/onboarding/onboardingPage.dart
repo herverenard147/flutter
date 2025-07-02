@@ -1,18 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:project_test/const/color.dart';
-import 'package:project_test/const/size.dart';
 import 'package:project_test/const/text.dart';
-import 'package:project_test/screen/homePage.dart';
+import 'package:project_test/const/size.dart';
+import 'package:project_test/const/color.dart';
 import 'package:dots_indicator/dots_indicator.dart';
-import 'package:project_test/compoment/OnboardingBar.dart';
+import 'package:project_test/screen/home/homePage.dart';
+import 'package:project_test/screen/compoments/onboardingBar.dart';
 
-class OnboardingPage extends StatefulWidget {
+class OnboardingPage extends StatelessWidget {
   const OnboardingPage({super.key});
-  @override
-  State<OnboardingPage> createState() => _OnboardingPageState();
-}
-
-class _OnboardingPageState extends State<OnboardingPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

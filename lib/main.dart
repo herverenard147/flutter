@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:project_test/const/theme.dart';
-import 'package:project_test/screen/onboardingPage.dart';
+import 'package:project_test/screen/onboarding/onboardingPage.dart';
 
 void main() {
   runApp(const MyApp());

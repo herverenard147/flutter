@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:project_test/compoment/btnAll.dart';
+import 'package:project_test/screen/compoments/btnAll.dart';
 import 'package:project_test/const/size.dart';
 import 'package:project_test/const/text.dart';
 

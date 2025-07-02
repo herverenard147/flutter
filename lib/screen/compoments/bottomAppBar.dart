@@ -138,6 +138,7 @@ class _BottomAppBarState extends State<BottomHomeAppBar> {
                 width: 20,
                 height: 20,
                 fit: BoxFit.contain,
+                color: Colors.black,
               ),
               text: 'Search',
             ),
